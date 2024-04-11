@@ -1,0 +1,3 @@
+.idea
+redis-pubsub-publisher/node_modules
+redis-pubsub-subscriber/node_modules
